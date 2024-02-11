@@ -1,3 +1,2 @@
-# PyQt5 ILE TIKLAMA SAYACI
-
- - Butona tiklama sayisini sayan ve yazdiran cok basit bir pyqt5 programi
+# PyQt5 CLICK COUNTER
+ - A very simple pyqt5 program that counts and prints the number of button clicks
